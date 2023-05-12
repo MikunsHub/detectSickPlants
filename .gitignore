@@ -1,0 +1,8 @@
+fourier_detector/venv
+fourier_detector/temp
+fourier_detector/Enfermedades Cacao
+camera_app/venv
+plant_snap/node_modules
+
+.vscode
+.DS_Store
